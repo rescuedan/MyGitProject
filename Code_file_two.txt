@@ -1,0 +1,5 @@
+This one will just say the following:
+
+Printf [I hate all printers!!!]
+
+Like realy hate!!
