@@ -1,0 +1,7 @@
+If (I can understand Git)
+
+	Take Drink
+
+Else 
+
+	Keep Trying!!
