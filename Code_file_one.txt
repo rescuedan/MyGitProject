@@ -11,3 +11,6 @@ Else
 Let's put few more blank lines here and make sure we say how many commits it's been.
 
 end is here.
+
+Now this time we are going to change both files and add a third to the project.  Getting bold!!
+
