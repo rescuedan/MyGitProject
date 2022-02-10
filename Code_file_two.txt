@@ -3,3 +3,6 @@ This one will just say the following:
 Printf [I hate all printers!!!]
 
 Like realy hate!!
+
+How about some new text and don't forget to add a line at the end of the file...
+
