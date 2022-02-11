@@ -10,3 +10,6 @@ Now this time we are going to change both files and add a third to the project. 
 
 
 Two!!
+
+Okay we've checked out the Master Branch and we are going to make some commits!!
+
