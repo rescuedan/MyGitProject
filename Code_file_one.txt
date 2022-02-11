@@ -14,3 +14,8 @@ end is here.
 
 Now this time we are going to change both files and add a third to the project.  Getting bold!!
 
+Now while we are in the master branch we are going to remind ourselves that a branch is usually someone else working a feature on a diffrent PC so they would have pulled a
+copy of the latest master, created a branch and stayed in it until they were finished.  Then merge back. We are just trying to get the feel for the model here!!
+
+
+
